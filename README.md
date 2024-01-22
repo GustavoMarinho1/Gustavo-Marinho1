@@ -19,4 +19,4 @@ Olá! eu sou Gustavo Marinho 🙂
 
 ## E-mail para contato ✍️
 
-- [guxz.21am@gmail.com] 💪
+- [gustavomarinho.front-end@hotmail.com] 💪
